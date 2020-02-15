@@ -1,0 +1,4 @@
+Run:
+```
+./mk.sh image
+```
